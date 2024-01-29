@@ -1,7 +1,7 @@
-            - name: The Docker CLI
+  - name: The Docker CLI
   # You may pin to the exact commit or the version.
   # uses: actions-hub/docker@f5fdbfc3f9d2a9265ead8962c1314108a7b7ec5d
-  # uses: actions-hub/docker@v1.0.3
+  uses: actions-hub/docker@v1.0.3
   with:
     # Docker image (if not the same as repo)
     NAME: # optional
