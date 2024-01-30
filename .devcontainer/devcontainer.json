@@ -10,7 +10,9 @@
       "extensions": [
         "esbenp.prettier-vscode",
         "imgildev.vscode-typescript-pack",
-        "bradlc.vscode-tailwindcss"
+        "bradlc.vscode-tailwindcss",
+        "aaron-bond.better-comments",
+        "Angular.ng-template"
       ]
     }
   }
