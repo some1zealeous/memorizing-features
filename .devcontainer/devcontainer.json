@@ -8,7 +8,9 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+        "imgildev.vscode-typescript-pack",
+        "bradlc.vscode-tailwindcss"
       ]
     }
   }
